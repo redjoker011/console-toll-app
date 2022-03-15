@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTollApp", "ConsoleTollApp\ConsoleTollApp.csproj", "{185092D8-5EF9-4061-A8BF-4F2C61EB911F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{185092D8-5EF9-4061-A8BF-4F2C61EB911F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{185092D8-5EF9-4061-A8BF-4F2C61EB911F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{185092D8-5EF9-4061-A8BF-4F2C61EB911F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{185092D8-5EF9-4061-A8BF-4F2C61EB911F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3807F47C-8CEC-4ABC-A21B-2EF8E7C2FD7A}
+	EndGlobalSection
+EndGlobal
